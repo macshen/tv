@@ -1,7 +1,7 @@
 港澳台,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://123.51.230.108:8515/.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://123.51.230.108:18580/.m3u8
 
 🎞爱尚(ijk),#genre#
